@@ -1,6 +1,6 @@
-# Pizza Menu App
 
-This project was bootstrapped with Create React App.
+
+
 
 
 
@@ -8,7 +8,8 @@ This project was bootstrapped with Create React App.
 
 # Fast React Pizza Co.
 
-A basic React app displaying a pizza menu. Built as my first project to practice components, props, and JSX.
+A basic React app displaying a pizza menu. Built as my first React project to practice components, props, and JSX.
+This project was bootstrapped with Create React App.
 
 ## Features
 
