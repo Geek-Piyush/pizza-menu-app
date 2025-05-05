@@ -2,7 +2,7 @@
 
 This project was bootstrapped with Create React App.
 
-Sure! Here's an even more concise version of your `README.md`:
+
 
 ---
 
