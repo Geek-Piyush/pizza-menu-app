@@ -26,5 +26,5 @@ This project was bootstrapped with Create React App.
 * CSS
 
 ## Development Tools
-*ESLint
-*Prettier
+* ESLint
+* Prettier
