@@ -24,3 +24,7 @@ This project was bootstrapped with Create React App.
 * React
 * JavaScript (ES6)
 * CSS
+
+## Development Tools
+*ESLint
+*Prettier
